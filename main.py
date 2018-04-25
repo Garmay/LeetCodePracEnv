@@ -4,8 +4,10 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 def main():
     dosomthing = 0
+    print("wow")
 
 
 if __name__ == "__main__":
